@@ -6,3 +6,4 @@ NLP with Python 3.
 4. Program 4:  Part Of Speech Tagging.
 5. Program 5:  Chunking.
 6. Program 6:  Named Entity Recognition.
+7. Program 7:  Lemmatizing.
