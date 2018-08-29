@@ -5,6 +5,7 @@ NLP with Python 3.
 3. Program 3:  Stemming the Words.  
 4. Program 4:  Part Of Speech Tagging.
 5. Program 5:  Chunking.
-6. Program 6:  Named Entity Recognition.
-7. Program 7:  Lemmatizing.
-8. Program 8:  NLTK Corpora
+6. Program 6:  Chinking.
+7. Program 7:  Named Entity Recognition.
+8. Program 8:  Lemmatizing.
+9. Program 9:  NLTK Corpora
