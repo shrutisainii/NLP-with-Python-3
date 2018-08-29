@@ -8,5 +8,5 @@ NLP with Python 3.
 6. Program 6:  Chinking.
 7. Program 7:  Named Entity Recognition.
 8. Program 8:  Lemmatizing.
-9. Program 9:  NLTK Corpora
-10.Program 10: WordNet
+9. Program 9:  NLTK Corpora.
+10.Program 10: WordNet.
