@@ -7,3 +7,4 @@ NLP with Python 3.
 5. Program 5:  Chunking.
 6. Program 6:  Named Entity Recognition.
 7. Program 7:  Lemmatizing.
+8. Program 8:  NLTK Corpora
