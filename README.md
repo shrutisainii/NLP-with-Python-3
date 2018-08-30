@@ -9,4 +9,5 @@ NLP with Python 3.
 7. Program 7:  Named Entity Recognition.
 8. Program 8:  Lemmatizing.
 9. Program 9:  NLTK Corpora.
-10.Program 10: WordNet.
+10. Program 10: WordNet.
+11. Program 11: Text Classification.
